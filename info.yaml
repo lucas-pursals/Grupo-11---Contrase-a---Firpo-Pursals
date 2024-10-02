@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     410463442291052545       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Grupo 11 - Contraseña"      # Project title
+  title:        "Grupo 11 - 1 Contraseña"      # Project title
   author:       "Firpo, Pursals"      # Your name
   discord:      "25lucas12"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Diseño de Contraseña - 11100000"      # One line description of what your project does
