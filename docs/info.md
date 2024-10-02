@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-etc
+etc2
 
 ## How to test
 
-etc
+etc2
 
 ## External hardware
 
-etc
+etc2
